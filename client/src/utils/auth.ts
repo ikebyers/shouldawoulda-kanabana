@@ -18,7 +18,7 @@ class AuthService {
     try {
       const { exp } = jwtDecode<JwtPayload>(token);
       if ( !exp ) return true;
-      return Date.now() >= exp * 5000;
+      return Date.now() >= exp * 30000;
     } catch (err) {
       return true;
     }
