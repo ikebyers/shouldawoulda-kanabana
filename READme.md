@@ -23,7 +23,6 @@ A Kanban Board web application for managing tasks, organizing workflow, and boos
 	•	Task Management: Create, edit, and delete tasks.
 	•	Persistence: Task data is saved locally or via a database.
 	•	User Authentication: Secure login/logout for personalized boards.
-	•	API Integration: Utilize external APIs to enhance user experience.
 
 ## Getting Started
 These instructions will help you set up and run the application locally for your own development and/or testing purposes.
@@ -84,10 +83,10 @@ This project is licensed under the MIT License.
 
 ## Sources
 This project used information from several sources, including documentation, tutorials, and support on platforms. Here are notable references:
-	1.	Express Documentation: Used for setting up the server and managing routes.
-	2.	Render Deployment Guide: Referenced for deploying the Node.js application on Render, including configuration of the main entry in package.json.
-	3.	Node.js Documentation: Consulted for handling environment variables, error handling, and other Node.js features.
-	4.	Stack Overflow: Various questions and answers consulted for handling common errors and debugging issues in deployment and configuration.
+- Express Documentation: Used for setting up the server and managing routes.
+- Render Deployment Guide: Referenced for deploying the Node.js application on Render, including configuration of the main entry in package.json.
+- Node.js Documentation: Consulted for handling environment variables, error handling, and other Node.js features.
+- Stack Overflow: Various questions and answers consulted for handling common errors and debugging issues in deployment and configuration.
 
 ## Questions
 If you have any questions, please contact me at:
